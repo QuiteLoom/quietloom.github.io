@@ -190,6 +190,15 @@ main {
     color: #8A7465;
 }
 
+.app-screenshot {
+  width: 100%;
+  max-width: 520px;     /* tweak this if you want it bigger/smaller */
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.18);
+  display: block;
+}
+
+
 /* ASCII "card-ish" box for BookLoom preview */
 
 .ascii-preview {
@@ -283,3 +292,4 @@ main {
         flex-wrap: wrap;
     }
 }
+
