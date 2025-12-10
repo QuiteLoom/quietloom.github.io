@@ -311,6 +311,20 @@ main {
   margin: 0 auto;
 }
 
+/* --- BookLoom GIF styling --- */
+.gif-wrapper {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.theme-gif {
+  width: 100%;
+  max-width: 320px;  /* adjust if you want it smaller or bigger */
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
 
 
 
